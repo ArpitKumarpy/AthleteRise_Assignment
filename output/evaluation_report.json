@@ -1,0 +1,40 @@
+{
+    "overall_score": 5.3,
+    "scores": {
+        "footwork": 10,
+        "head_position": 7.3,
+        "swing_control": 2.1,
+        "balance": 1,
+        "follow_through": 6
+    },
+    "feedback": {
+        "footwork": [
+            "Excellent foot placement, allowing for strong drives.",
+            "Maintain this aggressive stride towards the ball."
+        ],
+        "head_position": [
+            "Aim to keep your head more still and aligned over your front knee.",
+            "Ensure your head is steady throughout the shot to watch the ball closely."
+        ],
+        "swing_control": [
+            "Review your swing path for consistency and power generation.",
+            "Focus on a higher front elbow and a fuller swing through the ball."
+        ],
+        "balance": [
+            "Significant balance issues observed.",
+            "Practice staying upright and stable through your shot to avoid falling over.",
+            "Strengthen your core and leg muscles to improve stability."
+        ],
+        "follow_through": [
+            "Aim for a more complete follow-through.",
+            "Ensure full extension of the arms after hitting the ball."
+        ]
+    },
+    "metrics_summary": {
+        "avg_elbow_angle": 75.6,
+        "avg_spine_lean": 26.9,
+        "avg_head_knee_distance": 21.2,
+        "avg_front_foot_direction": NaN,
+        "total_frames_analyzed": 61
+    }
+}
