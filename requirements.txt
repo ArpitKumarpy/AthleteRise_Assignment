@@ -1,0 +1,4 @@
+opencv-python>=4.9
+mediapipe>=0.10
+numpy>=1.23
+yt-dlp>=2024.3.10
