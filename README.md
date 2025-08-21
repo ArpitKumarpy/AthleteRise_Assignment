@@ -49,7 +49,7 @@ To analyze a YouTube video, simply run the script with the --url argument follow
 
 ```Bash
 
-python cricket_drive_analysis_realtime.py --url https://youtube.com/shorts/vSX3IRxGnNY (or whatever url)
+python cover_drive_analysis_realtime.py --url https://youtube.com/shorts/vSX3IRxGnNY (or whatever url)
 ```
 
 
@@ -58,7 +58,7 @@ If you have a video file (e.g., input_video.mp4) on your computer, use the --inp
 
 ```Bash
 
-python cricket_analyzer.py --input path/to/your/video/my_cricket_shot.mp4
+python cover_analyzer.py --input path/to/your/video/my_cricket_shot.mp4
 ```
 (Remember to replace path/to/your/video/my_cricket_shot.mp4 with the actual path to your video file.)
 
